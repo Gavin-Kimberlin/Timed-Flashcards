@@ -1,0 +1,18 @@
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+body {
+  background-color: #725E54;
+  color: #492D2D;
+
+}
+h1 {
+  color: #8EDCE6;
+}
+
+.jumbotron {
+  background-color: #8EDCE6;
+  border: 5px ridge #ff8800;
+}
