@@ -1,0 +1,4 @@
+export const cardInfo = ['JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.', 'An operator performs some operation on single or multiple operands (data value) and produces a result. For example 1 + 2, where + sign is an operator and 1 is left operand and 2 is right operand.', 'Variable means anything that can vary. JavaScript includes variables which hold the data value and it can be changed anytime. JavaScript uses reserved keyword var to declare a variable. You can assign a value to a variable using equal to (=) operator when you declare it or before using it.', 'for writing variables, the first word should be lower case followed by capitalizing each other word.'
+];
+
+export const cardTitle = ['Javascript', 'Operators', 'Variables', 'Variable Naming Conventions']
